@@ -1,6 +1,6 @@
 {
-  "name": "giaic-atm-achine",
-  "version": "6.0.6",
+  "name": "giaic-atm-machine",
+  "version": "6.0.7",
   "description": "",
   "main": "index.js",
   "type": "module",
